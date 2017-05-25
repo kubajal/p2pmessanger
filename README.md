@@ -1,2 +1,2 @@
 # p2pmessanger
-A simple peer2peer messanger written in Java that uses sockets.
+A simple peer2peer messenger written in Java that uses sockets.
